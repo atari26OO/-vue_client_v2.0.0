@@ -20,8 +20,8 @@ export default {
   data: function() {
     return {
       users: [
-        { uid: 1, name: 'Riel', role: 'Manager' },
-        { uid: 2, name: 'Thane', role: 'Admin' },
+        { uid: 1, name: 'Francis', role: 'Manager' },
+        { uid: 2, name: 'Melie', role: 'Admin' },
         { uid: 3, name: 'Laszlo', role: 'User' },
         { uid: 4, name: 'Alexa', role: 'User' },
         { uid: 5, name: 'Sam', role: 'User' },
